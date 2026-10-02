@@ -1,6 +1,6 @@
 # roblox-jailbreak-autoslot-switcher
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/roblox-jailbreak-autoslot-switcher/refs/heads/main/roblox-jailbreak-autoslot-switcher"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/slxzerxs/roblox-jailbreak-autoslot-switcher/refs/heads/main/roblox-jailbreak-autoslot-switcher.lua"))()
 ```
 
 A lightweight script for **Roblox Jailbreak** that automatically switches between your saved garage slots in real time.
