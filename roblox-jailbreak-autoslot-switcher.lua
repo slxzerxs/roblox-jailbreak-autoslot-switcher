@@ -1,3 +1,4 @@
+-- v1.0.1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local delayTime = 0.3
